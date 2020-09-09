@@ -1,0 +1,4 @@
+/Users/fye/Codes/Integrality-Gap-for-Bin-Packing/CMakeFiles/rebuild_cache.dir
+/Users/fye/Codes/Integrality-Gap-for-Bin-Packing/CMakeFiles/edit_cache.dir
+/Users/fye/Codes/Integrality-Gap-for-Bin-Packing/CMakeFiles/main.dir
+/Users/fye/Codes/Integrality-Gap-for-Bin-Packing/CMakeFiles/bpsolver.dir

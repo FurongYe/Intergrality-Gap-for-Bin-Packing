@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libbpsolver.a  CMakeFiles/bpsolver.dir/src/simplelpsolver.cpp.o CMakeFiles/bpsolver.dir/src/simpleipsolver.cpp.o CMakeFiles/bpsolver.dir/src/solution.cpp.o CMakeFiles/bpsolver.dir/src/helper.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libbpsolver.a
